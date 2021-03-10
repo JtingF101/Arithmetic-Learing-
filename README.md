@@ -1,2 +1,2 @@
-# Arithmetic-Learing-
+# Arithmetic-Learing
 Learning diary
